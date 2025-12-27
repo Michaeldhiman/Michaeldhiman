@@ -1,6 +1,5 @@
 # 💫 About Me:
-👋<br><br>
-Hi, I’m Michael — a developer in progress who enjoys building things, breaking them, and learning why they broke.<br><br>
+👋Hi, I’m Michael — a developer in progress who enjoys building things, breaking them, and learning why they broke.<br><br>
 
 🔭 I’m currently working on<br><br>
 Building projects with React, JavaScript, and Java<br><br>
