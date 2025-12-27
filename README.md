@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 About Me<br><br>🔭 I’m currently working on<br><br>Building projects with React, JavaScript, and Java<br><br>Strengthening DSA & problem-solving for placements<br><br>Personal web apps & mini tools to improve logic<br><br>👯 I’m looking to collaborate on<br><br>Beginner–intermediate frontend projects<br><br>Open-source projects where I can learn by contributing<br><br><br>🤝 I’m looking for help with<br><br>Writing clean, optimized code<br><br><br>Real-world project architecture<br><br>🌱 I’m currently learning<br><br>Data Structures & Algorithms (Java)<br><br><br>⚡ Fun fact<br><br>I overthink logic problems… and then solve them at 2 AM
+👋<br><br>🔭 I’m currently working on<br><br>Building projects with React, JavaScript, and Java<br><br>Strengthening DSA & problem-solving for placements<br><br>Personal web apps & mini tools to improve logic<br><br>👯 I’m looking to collaborate on<br><br>Beginner–intermediate frontend projects<br><br>Open-source projects where I can learn by contributing<br><br><br>🤝 I’m looking for help with<br><br>Writing clean, optimized code<br><br><br>Real-world project architecture<br><br>🌱 I’m currently learning<br><br>Data Structures & Algorithms (Java)<br><br><br>⚡ Fun fact<br><br>I overthink logic problems… and then solve them at 2 AM
 
 
 ## 🌐 Socials:
