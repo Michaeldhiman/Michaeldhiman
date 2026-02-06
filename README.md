@@ -17,13 +17,6 @@ Real-world project architecture<br><br>
 🌱 I’m currently learning<br><br>
 Data Structures & Algorithms (Java)<br><br>
 
-## 📊 GitHub Contributions (Last 2 Years)
-
-### 🗓️ This Year
-![This Year Contributions](https://github-readme-stats.vercel.app/api?username=Michaeldhiman&show_icons=true&count_private=true&include_all_commits=true)
-
-### 🗓️ Previous Year
-![Previous Year Contributions](https://github-readme-stats.vercel.app/api?username=Michaeldhiman&show_icons=true&count_private=true&include_all_commits=true&hide=prs&custom_title=Previous%20Year%20Stats)
 
 
 ⚡ Fun fact<br><br>
