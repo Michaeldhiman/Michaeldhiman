@@ -17,6 +17,8 @@ Real-world project architecture<br><br>
 🌱 I’m currently learning<br><br>
 Data Structures & Algorithms (Java)<br><br>
 
+![Contributions](https://komarev.com/ghpvc/?username=Michaeldhiman&label=Total%20Profile%20Views&color=0e75b6&style=flat)
+
 ⚡ Fun fact<br><br>
 I overthink logic problems… and then solve them at 2 AM
 
