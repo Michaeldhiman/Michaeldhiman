@@ -1,39 +1,69 @@
-# 💫 About Me:
-👋Hi, I’m Michael — a developer in progress who enjoys building things, breaking them, and learning why they broke.<br><br>
+# 👋 Hi, I'm Michael Dhiman
 
-🔭 I’m currently working on<br><br>
-Building projects with React, JavaScript, and Java<br><br>
-Strengthening DSA & problem-solving for placements<br><br>
-Personal web apps & mini tools to improve logic<br><br>
+### Computer Science Engineering Student | Full-Stack Developer
 
-👯 I’m looking to collaborate on<br><br>
-Beginner–intermediate frontend projects<br><br>
-Open-source projects where I can learn by contributing<br><br><br>
+I enjoy building real-world applications, solving problems, and learning how software works under the hood.
 
-🤝 I’m looking for help with<br><br>
-Writing clean, optimized code<br><br>
-Real-world project architecture<br><br>
-
-🌱 I’m currently learning<br><br>
-Data Structures & Algorithms (Java)<br><br>
-
-
-
-⚡ Fun fact<br><br>
-I overthink logic problems… and then solve them at 2 AM
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/michael-dhiman-a869262a1) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:michaeldhiman0214@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Michaeldhiman&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Michaeldhiman&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Michaeldhiman&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+- 💻 Building full-stack applications with **React, Node.js, Express & Java**
+- 🧠 Strengthening **Data Structures & Algorithms with Java**
+- 🔐 Exploring **backend development, APIs & web security**
+- 🚀 Always learning by building
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Michaeldhiman&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🛠️ Tech Stack
+
+**Languages**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-443322?style=flat-square)
+
+**Backend & Databases**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+### 🔐 [SecureVault](https://github.com/Michaeldhiman/shareVault)
+
+Zero-knowledge-style password manager built with **React, Node.js, Express, MongoDB & Web Crypto API**.
+
+`AES-256-GCM` · `PBKDF2` · `JWT` · `Helmet` · `Rate Limiting`
+
+### 📡 [API Pulse](https://github.com/Michaeldhiman/API-Pulse)
+
+Full-stack API monitoring platform built with **React, Node.js, Express, PostgreSQL & Prisma**.
+
+`Health Monitoring` · `Background Polling` · `Alerts` · `JWT` · `SSRF Protection`
+
+---
+
+## 🌐 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/michael-dhiman-a869262a)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:michaeldhiman0214@gmail.com)
+
+---
+
+> ⚡ I overthink logic problems... and then solve them at 2 AM.
